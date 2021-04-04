@@ -1,0 +1,7 @@
+C:\Users\VITAL\Desktop\New folder (2)\obj\Debug\VITAL.csprojAssemblyReference.cache
+C:\Users\VITAL\Desktop\New folder (2)\obj\Debug\VITAL.csproj.CoreCompileInputs.cache
+C:\Users\VITAL\Desktop\New folder (2)\bin\Debug\VITAL9999.exe.config
+C:\Users\VITAL\Desktop\New folder (2)\bin\Debug\VITAL9999.exe
+C:\Users\VITAL\Desktop\New folder (2)\bin\Debug\VITAL9999.pdb
+C:\Users\VITAL\Desktop\New folder (2)\obj\Debug\VITAL9999.exe
+C:\Users\VITAL\Desktop\New folder (2)\obj\Debug\VITAL9999.pdb
