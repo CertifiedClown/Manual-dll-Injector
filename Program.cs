@@ -1,5 +1,6 @@
-﻿// join for more https://discord.gg/kSSF6eM4Er
+﻿// join for more https://discord.gg/mS9Jzg8SRT
 // Give credits if you paste this 1310's#1310 no credits = gae
+// New account 1310's#1310 the other one got banned
 
 using System;
 using System.Runtime.InteropServices;
