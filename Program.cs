@@ -1,4 +1,5 @@
 ﻿// join for more https://discord.gg/kSSF6eM4Er
+// Give credits if you paste this 1310's#1310 no credits = gae
 
 using System;
 using System.Runtime.InteropServices;
@@ -30,23 +31,23 @@ namespace VITAL9999
             ShowWindow(handle, SW_HIDE);
 
             {
-                System.Diagnostics.Process.Start("https://discord.gg/kSSF6eM4Er");
+                System.Diagnostics.Process.Start("https://discord.gg/FYh9KERzkY");
             }
 
             try
             {
                 if (VITAL9999.Run(GetPathDLL()))
                 {
-                    MessageBox.Show("[VITAL#9999] DLL injected thanks for using our services!", "Success!", MessageBoxButtons.OK, MessageBoxIcon.Information, MessageBoxDefaultButton.Button1, MessageBoxOptions.DefaultDesktopOnly);
+                    MessageBox.Show("[1310's#1310] DLL injected thanks for using our services!", "Success!", MessageBoxButtons.OK, MessageBoxIcon.Information, MessageBoxDefaultButton.Button1, MessageBoxOptions.DefaultDesktopOnly);
                 }  
                 else
                 {
-                    MessageBox.Show("[VITAL#9999] Failed!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error, MessageBoxDefaultButton.Button1, MessageBoxOptions.DefaultDesktopOnly);
+                    MessageBox.Show("[1310's#1310] Failed!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error, MessageBoxDefaultButton.Button1, MessageBoxOptions.DefaultDesktopOnly);
                 }
             }
             catch (Exception e)
             {
-                MessageBox.Show(e.Message, "[VITAL#9999] Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show(e.Message, "[1310's#1310] Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
@@ -67,7 +68,7 @@ namespace VITAL9999
                 }
                 else
                 {
-                    throw new ApplicationException("[VITAL#9999] Dll Opening Error");
+                    throw new ApplicationException("[1310's#1310] Dll Opening Error");
                 }
             }
 
